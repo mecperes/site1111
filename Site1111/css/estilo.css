@@ -1,0 +1,44 @@
+.logo{
+    width: 150px;
+
+}
+
+.img-banner{
+    width: 600px;
+    
+
+}
+
+p{
+    text-align: justify;
+}
+
+.img-destaque{
+    width: 300px;
+}
+
+.galeria{
+
+    margin: 5px;
+    border: 3px solid black;
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.galeria p{
+    margin-left: 10px;
+}
+ 
+.fundo-banner{
+    background-color: #21734C;
+}
+
+.img-novidades{
+    width: 600px;
+    
+
+
+}
